@@ -1,9 +1,15 @@
 Chapter 3
 
 What is the Law of Demeter?
+
 What is the Dependency injection?
   The process of decopling the classes entirely without making the classes depend by means 
   of initializing the objects fore front is called as the dependency injection
 
+Isolate the dependencies
+What is the effect of dependency?
+ - Think of every dependency as an alien bacterium that‘s trying to infect your class. Give your class a vigorous immune system; quarantine each dependency. 
+ - Dependencies are foreign invaders that represent vulnerabilities, and they should be concise, explicit, and isolated.
 
+Isolate the instance Creation
 
