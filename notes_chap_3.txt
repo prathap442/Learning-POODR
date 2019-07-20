@@ -3,7 +3,7 @@ Chapter 3
 What is the Law of Demeter?
 
 What is the Dependency injection?
-  The process of decopling the classes entirely without making the classes depend by means 
+  The process of decoupling the classes entirely without making the classes depend by means 
   of initializing the objects fore front is called as the dependency injection
 
 Isolate the dependencies
